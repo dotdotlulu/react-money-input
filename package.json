@@ -1,6 +1,6 @@
 {
   "name": "@nodejsii/react-money-input",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A currency text input for React that Just Works™",
   "author": "rschpdr",
   "main": "build/index.js",
@@ -91,7 +91,7 @@
     "workbox-webpack-plugin": "4.3.1"
   },
   "peerDependencies": {
-    "currency.js": "^1.2.2"
+    "currency.js": "^2.0.0"
   },
   "resolutions": {
     "**/**/serialize-javascript": "^2.1.1",
