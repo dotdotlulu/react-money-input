@@ -2,6 +2,8 @@
 
 ![npm (scoped)](https://img.shields.io/npm/v/@rschpdr/react-money-input) ![Node.js CI](https://github.com/rschpdr/react-money-input/workflows/Node.js%20CI/badge.svg)
 
+> This version removes the currency.js v1.0.0 restriction to be used, now works with currency 2.0.0
+
 A currency text input for React that Just Works™
 
 - "ATM style" typing, matches user expectations of how a money input should work
