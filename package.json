@@ -1,6 +1,6 @@
 {
   "name": "@nodejsii/react-money-input",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A currency text input for React that Just Works™",
   "author": "rschpdr",
   "main": "build/index.js",
