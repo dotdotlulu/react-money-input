@@ -1,6 +1,6 @@
 # React Money Input
 
-![npm (scoped)](https://img.shields.io/npm/v/@rschpdr/react-money-input) ![Node.js CI](https://github.com/rschpdr/react-money-input/workflows/Node.js%20CI/badge.svg)
+![npm (scoped)](https://img.shields.io/npm/v/@nodejsii/react-money-input) ![Node.js CI](https://github.com/nodejsii/react-money-input/workflows/Node.js%20CI/badge.svg)
 
 > This version removes the currency.js v1.0.0 restriction to be used, now works with currency 2.0.0
 
@@ -17,7 +17,7 @@ A currency text input for React that Just Works™
 ## Installation
 
 ```bash
-npm install --save @rschpdr/react-money-input currency.js
+npm install --save @nodejsii/react-money-input currency.js
 ```
 
 ## Quick Start
@@ -85,7 +85,7 @@ export default Example;
 
 ## Contributing
 
-All contributions welcome! Feel free to [raise issues](https://github.com/rschpdr/react-money-input/issues) or [submit a PR](https://github.com/rschpdr/react-money-input/pulls).
+All contributions welcome! Feel free to [raise issues](https://github.com/nodejsii/react-money-input/issues) or [submit a PR](https://github.com/nodejsii/react-money-input/pulls).
 
 ## License
 
